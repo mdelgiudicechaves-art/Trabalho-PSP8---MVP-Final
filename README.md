@@ -1,6 +1,6 @@
 # MVP — Espectroscopia de impedância para apoio à decisão em tecido mamário
 
-Universidade de Brasília · Departamento de Engenharia de Produção · Projeto de Sistemas de Suporte à Decisão (Prof. André Luiz Marques Serrano)
+Universidade de Brasília · Depto. de Engenharia de Produção · PSP8 (Prof. André Luiz Marques Serrano)
 
 > Trabalho acadêmico sem validade clínica.
 
@@ -23,8 +23,8 @@ Avaliar se medidas de impedância elétrica de tecido mamário excisado sustenta
 Plataforma desta execução: **colab** (DuckDB + Parquet). Diagrama: `catalogo/diagrama_estrela.png`; catálogo de dados: `catalogo/catalogo_dados.md`.
 
 ## 4. Como reproduzir
-1. Abra `notebooks/MVP_Impedancia_Mamaria_Unificado.ipynb` no Google Colab ou no Databricks.
-2. Envie o CSV (upload no Colab; *Upload to this volume* no Databricks).
+1. Abra `notebooks/MVP_Impedancia_Mamaria_Unificado.ipynb` no Google Colab.
+2. Envie o CSV (upload no Colab).
 3. Execute todas as células. Parâmetros na seção 2 do notebook.
 
 ## 5. Qualidade dos dados
