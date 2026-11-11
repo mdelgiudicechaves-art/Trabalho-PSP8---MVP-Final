@@ -1,6 +1,6 @@
 # MVP — Espectroscopia de impedância para apoio à decisão em tecido mamário
 
-Universidade de Brasília · Depto. de Engenharia de Produção · PSP8 (Prof. André Luiz Marques Serrano)
+Universidade de Brasília - Depto. de Engenharia de Produção - PSP8 (Prof. André Luiz Marques Serrano) - Aluna Marina del Giudice Chaves (231025360)
 
 > Trabalho acadêmico sem validade clínica.
 
